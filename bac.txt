@@ -1,18 +1,18 @@
                      Enter your Background
 
--Name:
+-Name: Chor Visalrotanak
 
--Gender:
+-Gender: Male
 
--Age:
+-Age: 18
 
--School:
+-School: Kirirom Institude of Technology
 
--ID:
+-ID: NAN
 
--Dorm:
-
--Section:
+-Dorm: Borey M
+	
+-Section: C
 
 
              comment:....................................
