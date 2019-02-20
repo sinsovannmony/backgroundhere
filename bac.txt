@@ -1,19 +1,19 @@
                      Enter your Background
 
--Name:
+-Name: Khe Panha
 
--Gender:
+-Gender: Male
+	
+-Age: 18
 
--Age:
+-School: KIT
 
--School:
+-ID: 0001
 
--ID:
+-Dorm: M100
 
--Dorm:
-
--Section:
+-Section: Z
 
 
-             comment:....................................
+             comment:You are crazy, Mony.(fuck you bitch)
 
