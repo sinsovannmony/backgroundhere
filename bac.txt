@@ -1,19 +1,18 @@
                      Enter your Background
 
--Name:
+-Name: Lab Daro
 
--Gender:
+-Gender: M 
 
--Age:
+-Age: 18 but It remain 1 month my age will 19 hasha
 
--School:
+-Kirirom Institute of technolgy
 
--ID:
+-ID:1111111
 
--Dorm:
+-Dorm: M3 
 
--Section:
+-Section: C
 
 
-             comment:....................................
-
+             comment:Team bong Hort
