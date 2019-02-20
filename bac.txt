@@ -1,19 +1,19 @@
                      Enter your Background
 
--Name:
+-Name:sengsovanndy
 
--Gender:
+-Gender:M
 
--Age:
+-Age:18
 
--School:
+-School:kit
 
--ID:
+-ID:58698849
 
--Dorm:
+-Dorm:m3
 
--Section:
+-Section:c
 
 
-             comment:....................................
+             comment:hello world
 
