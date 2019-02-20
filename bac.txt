@@ -1,0 +1,19 @@
+                     Enter your Background
+
+-Name:
+
+-Gender:
+
+-Age:
+
+-School:
+
+-ID:
+
+-Dorm:
+
+-Section:
+
+
+             comment:....................................
+
