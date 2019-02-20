@@ -1,18 +1,18 @@
                      Enter your Background
 
--Name:
+-Name: Mengheang Ou
 
--Gender:
+-Gender: Male
 
--Age:
+-Age: 19
 
--School:
+-School: KIT
 
--ID:
+-ID: 200000000
 
--Dorm:
+-Dorm: V2
 
--Section:
+-Section: C
 
 
              comment:....................................
